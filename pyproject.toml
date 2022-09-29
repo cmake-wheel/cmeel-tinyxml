@@ -3,7 +3,7 @@ name = "cmeel-tinyxml"
 version = "2.6.2"
 description = "cmeel distribution for TinyXML, an obsolete thing."
 readme = "README.md"
-requires-python = ">= 3.8"
+requires-python = ">= 3.7"
 license = "Zlib"
 
 [project.urls]
