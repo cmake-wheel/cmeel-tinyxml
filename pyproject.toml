@@ -11,6 +11,7 @@ homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 
 [tool.cmeel]
 run-tests = false
+build-number = 1
 
 [build-system]
 requires = ["cmeel[build]"]
