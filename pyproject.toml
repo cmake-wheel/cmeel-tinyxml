@@ -1,6 +1,6 @@
 [project]
 name = "cmeel-tinyxml"
-version = "2.6.2"
+version = "2.6.2.1"
 description = "cmeel distribution for TinyXML, an obsolete thing."
 readme = "README.md"
 requires-python = ">= 3.7"
@@ -11,7 +11,6 @@ homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 
 [tool.cmeel]
 run-tests = false
-build-number = 1
 
 [build-system]
 requires = ["cmeel[build]"]
