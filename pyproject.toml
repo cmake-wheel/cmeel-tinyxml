@@ -10,6 +10,7 @@ license = "Zlib"
 homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 
 [tool.cmeel]
+build-number = 1
 run-tests = false
 
 [build-system]
