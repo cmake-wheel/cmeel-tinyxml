@@ -2,7 +2,6 @@
 name = "cmeel-tinyxml"
 version = "2.6.2.1"
 description = "cmeel distribution for TinyXML, an obsolete thing."
-readme = "README.md"
 requires-python = ">= 3.7"
 license = "Zlib"
 
