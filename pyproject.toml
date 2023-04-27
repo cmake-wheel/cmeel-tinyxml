@@ -1,3 +1,7 @@
+[build-system]
+requires = ["cmeel[build]"]
+build-backend = "cmeel.build"
+
 [project]
 name = "cmeel-tinyxml"
 version = "2.6.2.1"
@@ -11,7 +15,3 @@ homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 [tool.cmeel]
 build-number = 2
 run-tests = false
-
-[build-system]
-requires = ["cmeel[build]"]
-build-backend = "cmeel.build"
