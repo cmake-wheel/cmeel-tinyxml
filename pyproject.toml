@@ -1,13 +1,13 @@
 [build-system]
-requires = ["cmeel[build]"]
 build-backend = "cmeel.build"
+requires = ["cmeel[build]"]
 
 [project]
-name = "cmeel-tinyxml"
-version = "2.6.2.1"
 description = "cmeel distribution for TinyXML, an obsolete thing."
-requires-python = ">= 3.7"
 license = "Zlib"
+name = "cmeel-tinyxml"
+requires-python = ">= 3.7"
+version = "2.6.2.1"
 
 [project.urls]
 homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
@@ -16,3 +16,6 @@ homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 build-number = 3
 py3-none = true
 run-tests = false
+
+[tool.tomlsort]
+all = true
