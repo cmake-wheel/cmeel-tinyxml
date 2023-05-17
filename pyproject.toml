@@ -13,7 +13,7 @@ version = "2.6.2.2"
 homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 
 [tool.cmeel]
-build-number = 2
+build-number = 3
 py3-none = true
 run-tests = false
 
