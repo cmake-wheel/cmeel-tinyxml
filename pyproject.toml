@@ -14,7 +14,7 @@ homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 
 [tool.cmeel]
 build-number = 3
-py3-none = true
+has-sitelib = false
 run-tests = false
 
 [tool.tomlsort]
