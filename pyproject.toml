@@ -16,6 +16,7 @@ homepage = "https://github.com/cmake-wheel/cmeel-tinyxml"
 build-number = 3
 has-sitelib = false
 run-tests = false
+upstream-version = "2.6.2"
 
 [tool.tomlsort]
 all = true
